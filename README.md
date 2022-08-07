@@ -8,12 +8,12 @@ Currently, I am following my thesis under supervision of Dr. Saeed Reza Kheradpi
 My thesis is mainly focused on Deep Neural Networks and seq2seq learning. I utilize Pytorch and Keras Framework to surpass the other researchers in related field.
 
 # Programming skills:
-Python(Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Pytorch, Keras)
-R
-C++
-Matlab
-SPSS
-Linux
+Python(Numpy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Pytorch, Keras),
+R,
+C++,
+Matlab,
+SPSS,
+Linux,
 Latex
 
 
